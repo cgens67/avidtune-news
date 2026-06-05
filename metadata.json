@@ -1,13 +1,13 @@
 [
     {
-        "id": "crossfade-resolved.md",
-        "Title": "Crossfade Issue Resolved",
-        "Description": "The crossfade issue has now been officially resolved and the feature has been re-enabled.",
+        "id": "circular-progress-lyrics.md",
+        "Title": "Added Circular Progress Indicator for long instrumental gaps",
+        "Description": "After a long continuous tweaking, this feature has finally been added! This feature will be in 1.0.2",
         "ImageURL": [
-            "https://c.tenor.com/ijsnliG5ZegAAAAC/tenor.gif"
+            "https://c.tenor.com/jmXbDlZeSEAAAAAd/tenor.gif"
         ],
         "Important": true,
-        "Author": "Chartreux Westia",
-        "Date": "1779735840"
+        "Author": "cgens67",
+        "Date": 1780617600
     }
 ]

@@ -1,5 +1,14 @@
 [
     {
+        "id": "addressing-the-wait-for-v1.4.0.md",
+        "Title": "Addressing the wait for v1.4.0",
+        "Description": "An update regarding the development progress and the extended timeline for version 1.4.0.",
+        "ImageURL": [],
+        "Important": true,
+        "Author": "cgens67",
+        "Date": 1784444760
+    },
+    {
         "id": "circular-progress-lyrics.md",
         "Title": "Added Circular Progress Indicator for long instrumental gaps",
         "Description": "After a long continuous tweaking, this feature has finally been added! This feature will be in 1.0.2",

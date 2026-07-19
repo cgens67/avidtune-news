@@ -11,13 +11,24 @@
         "Date": 1784444760
     },
     {
+        "id": "added-avidtune-insight-feature.md",
+        "Title": "Added AvidTune Insight feature",
+        "Description": "An overview of the new AvidTune Insight feature, currently in an experimental and highly broken beta state.",
+        "ImageURL": [
+            "https://c.tenor.com/YW0A2UoKR0cAAAAC/tenor.gif"
+        ],
+        "Important": false,
+        "Author": "cgens67",
+        "Date": 1781395200
+    },
+    {
         "id": "circular-progress-lyrics.md",
         "Title": "Added Circular Progress Indicator for long instrumental gaps",
         "Description": "After a long continuous tweaking, this feature has finally been added! This feature will be in 1.0.2",
         "ImageURL": [
             "https://c.tenor.com/jmXbDlZeSEAAAAAd/tenor.gif"
         ],
-        "Important": true,
+        "Important": false,
         "Author": "cgens67",
         "Date": 1780617600
     }

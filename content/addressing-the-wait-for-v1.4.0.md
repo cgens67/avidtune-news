@@ -1,7 +1,7 @@
 # Addressing the wait for v1.4.0
 
-Development for version 1.4.0 is taking longer than initially anticipated. The team is currently working on significant architectural improvements to ensure better performance and stability across the application. 
+The development for version 1.4.0 is taking longer than initially anticipated. The extra time is being used to tweak several UI elements, including the dropdown UI, various application animations, and the autoscroll behavior on the Insight screen.
 
-Several core components required rewriting, which has naturally extended our development timeline. We are taking this time to thoroughly address various bugs reported in the previous versions and refine the existing features.
+In addition to these refinements, we are addressing a number of visual bugs that were present in version 1.3.1 and those identified during the v1.4.0-beta1 testing phase.
 
-Work is progressing steadily. We appreciate your continued patience as we finalize this release. A precise release date will be provided once the internal testing phase is complete.
+We plan to release v1.4.0-beta2 in a couple of days. We appreciate your continued patience as we finalize these improvements.
